@@ -1,6 +1,9 @@
 hello git
+<<<<<<< HEAD
+=======
 this a old txt
 nothing is true, every thing is permitent
 No.3
 No.4
 this is add by branch dev
+>>>>>>> dev
